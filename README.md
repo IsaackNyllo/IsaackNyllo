@@ -24,8 +24,8 @@ Desenvolvedor focado em criar soluções eficientes e interfaces modernas. Atual
 
 ### 📊 Estatísticas do GitHub
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaack-nyllo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaack-nyllo&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaackNyllo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaackNyllo&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 ### 📫 Vamos nos conectar?
