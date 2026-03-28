@@ -22,13 +22,21 @@ Desenvolvedor focado em criar soluções eficientes e interfaces modernas. Atual
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 Estatísticas do GitHub
+### 📊 Minhas Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaackNyllo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaackNyllo&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IsaackNyllo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaackNyllo&layout=compact&langs_count=7&theme=radical" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaackNyllo&theme=radical&locale=pt_BR" alt="streak stats" />
 </p>
 
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaack-nyllo/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacknyllo@gmail.com)
+
+---
+✨ *Obrigado por visitar meu perfil!*   ![Visitantes](https://komarev.com/ghpvc/?username=IsaackNyllo&color=ff0055&style=flat-square)
