@@ -39,4 +39,4 @@ Desenvolvedor focado em criar soluções eficientes e interfaces modernas. Atual
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacknyllo@gmail.com)
 
 ---
-✨ *Obrigado por visitar meu perfil!*   ![Visitantes](https://komarev.com/ghpvc/?username=IsaackNyllo&color=ff0055&style=flat-square)
+✨ *Obrigado por visitar meu perfil!*
