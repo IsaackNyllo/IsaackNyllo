@@ -33,6 +33,11 @@ Trabalho com React, TypeScript e Python, e uso IA aplicada e agentes no dia a di
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsaackNyllo&theme=radical" alt="Linguagens por commit" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsaackNyllo/IsaackNyllo/output/github-snake-dark.svg" />
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/IsaackNyllo/IsaackNyllo/output/github-snake.svg" />
+</picture>
+
 ### 📫 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaack-nyllo/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacknyllo@gmail.com)
