@@ -1,24 +1,24 @@
 # Olá, eu sou o Isaack Nyllo! 👋
 
-Desenvolvedor focado em criar soluções eficientes e interfaces modernas. Atualmente, transito entre o desenvolvimento de aplicações Desktop robustas com Python e a criação de interfaces web dinâmicas.
+Desenvolvedor Full Stack na Singular e estudante de Ciência de Dados na UFC.
+Trabalho com React, TypeScript e Python, e uso IA aplicada e agentes no dia a dia do desenvolvimento.
 
-### 🚀 Sobre mim
-- 🔭 Atualmente desenvolvendo aplicações desktop com **Python** e **CustomTkinter**.
-- 🛠️ Experiência com **Docker** para containerização e **SQL** para modelagem de dados.
-- 🌱 No momento, mergulhando no ecossistema Web: **HTML5**, **CSS3** e **Bootstrap**.
-- 🎯 Objetivo: Me tornar um desenvolvedor Fullstack, com foco próximo em **React**.
+### 🚀 Projetos em destaque
+- [api-corte-unidimensional](https://github.com/IsaackNyllo/api-corte-unidimensional): API de otimização com FastAPI e OR-Tools, com deploy no Render
+- [sistema-biblioteca-ufc](https://github.com/IsaackNyllo/sistema-biblioteca-ufc): gestão de biblioteca acadêmica com Next.js, Express, Sequelize e JWT
+- [giro-mascote](https://github.com/IsaackNyllo/giro-mascote): mascote animado por código (vídeo 3D em three.js, 2D e apresentação narrada)
+- [anonimizacao-sintatica-lgpd](https://github.com/IsaackNyllo/anonimizacao-sintatica-lgpd): anonimização de dados de COVID-19 em Python
+- [analise-alugueis-temporarios](https://github.com/IsaackNyllo/analise-alugueis-temporarios): análise de investimento em aluguel por temporada
 
-### 🛠 Minha "Caixa de Ferramentas"
-
-#### Linguagens e Backend
+### 🛠 Tecnologias
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Front-end (Em progresso 🚧)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Ferramentas e Infra
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
