@@ -25,13 +25,12 @@ Trabalho com React, TypeScript e Python, e uso IA aplicada e agentes no dia a di
 ### 📊 Minhas Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IsaackNyllo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IsaackNyllo&layout=compact&langs_count=7&theme=radical" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaackNyllo&theme=radical" alt="Contribuições no GitHub" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsaackNyllo&theme=radical&locale=pt_BR" alt="streak stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsaackNyllo&theme=radical" alt="Linguagens por repositório" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsaackNyllo&theme=radical" alt="Linguagens por commit" />
 </p>
 
 ### 📫 Vamos nos conectar?
